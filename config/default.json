@@ -1,6 +1,6 @@
 {
   "port": 5000,
-  "mongoUri": "mongodb+srv://rasul:1999276776s@cluster0.zqybo.mongodb.net/app?retryWrites=true&w=majority",
+  "mongoUri": "mongodb+srv://rasul:<password>@cluster0.zqybo.mongodb.net/app?retryWrites=true&w=majority",
   "jwtSecret": "rasul karaev mern",
   "baseUrl": "http://localhost:5000"
 }
